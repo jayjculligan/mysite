@@ -35,14 +35,11 @@ function App() {
         <button className={lightMode ? 'light-mode-switch active' : 'light-mode-switch'} onClick={() => handleMode()}></button>
       </div>
       <Switch>
-        <Route path="/" exact>
+        <Route path="/mysite" exact>
           <Home lightMode={lightMode}/>
         </Route>
         <Route path="/about" component={About} />
         <Route path="/resume" component={Resumes} />
-        {/* <Route path="/portfolios" component={Portfolios} /> */}
-        {/* <Route path="/blogs" exact component={Blogs} />
-        <Route path="/blogs/blog-details/:id/:title" component={BlogDetails} /> */}
         <Route path="/contact" component={Contact} />
         <Route path="*" component={Notfound} />
       </Switch>
