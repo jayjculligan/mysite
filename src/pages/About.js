@@ -65,7 +65,7 @@ function About() {
             <div className="col-lg-6">
               <div className="mi-about-image">
                 <ProgressiveImage
-                  src={information.aboutImage}
+                  src="/images/about-image.jpg"
                   placeholder="/images/about-image-placeholder.png"
                 >
                   {src => <img src={src} alt="aboutimage" onClick={() => handleToggler(!toggler)} />}
