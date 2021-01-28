@@ -273,7 +273,7 @@ const database = {
     workingExperience: [
       {
         id: 1,
-        year: "Jan 2018 - Present",
+        year: "Jan 2019 - Present",
         position: "Data Scientist",
         company: "Cequence Security",
         details: "• Increased malicious botnet detection for Cequence’s Bot Mitigation SaaS Platform by an average of 20%, using a range of rules and machine learning pipelines on HTTP request data.",
@@ -282,7 +282,7 @@ const database = {
       },
       {
         id: 2,
-        year: "Sep 2016 - Dec 2018",
+        year: "Sep 2018 - Dec 2018",
         position: "Data Science Fellow",
         company: "Insight Data Science",
         details: "• Developed Plutarch, a web-app that uses natural language processing to provide personalized history podcast recommendations.",
