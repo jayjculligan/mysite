@@ -20,7 +20,7 @@ const database = {
       dribbble: '',
       github: 'https://github.com'
     },
-    brandImage: './images/brand-image.jpg',
+    brandImage: './public/images/brand-image.jpg',
     aboutImage: './images/about-image.jpg',
     aboutImageLg: './images/about-image-lg.jpg',
     cvfile: './files/JayCulligan_Resume.pdf'

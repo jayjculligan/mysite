@@ -66,16 +66,16 @@ function About() {
               <div className="mi-about-image">
                 <ProgressiveImage
                   src={information.aboutImage}
-                  placeholder="/images/about-image-placeholder.png"
+                  placeholder="./images/about-image-placeholder.png"
                 >
-                  {src => <img src={src} alt="aboutimage" onClick={() => handleToggler(!toggler)} />}
+                  {src => <img src="./images/about-image.jpg" alt="aboutimage" onClick={() => handleToggler(!toggler)} />}
                 </ProgressiveImage>
                 <span className="mi-about-image-icon">
                   <Icon.ZoomIn />
                 </span>
                 <FsLightbox
                   toggler={toggler}
-                  sources={[information.aboutImageLg]}
+                  sources={["./images/about-image.jpg"]}
                 />
               </div>
             </div>
