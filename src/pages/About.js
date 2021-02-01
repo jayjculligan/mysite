@@ -85,10 +85,7 @@ function About() {
                   I am <span className="color-theme">{information.name}</span>
                 </h3>
                 <p>
-                  I am a data scientist. I can provide actionable 
-                  insights through rigorous statistical analysis and 
-                  experimentation. I also make end-to-end machine learning 
-                  pipelines and create insightful dashbaords.
+                I am a Data Scientist with a passion for using practical approaches with machine learning, statistics, and experimentation to solve problems. Life-long learner excited by challenges and driven by curiosity to measure the unmeasurable. Storyteller translating complex concepts into clear and accessible terms and  bringing data to life through visualizations.
                 </p>
                 <ul>
                   {!information.name ? null : (

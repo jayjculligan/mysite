@@ -3,10 +3,10 @@ import Mock from "../mock";
 const database = {
   information: {
     name: 'Jay Culligan',
-    aboutContent: "I am a Data Scientist. I can provide actionable insights through rigorous statistical analysis and experimentation. I also make end-to-end machine learning pipelines and create insightful dashbaords.",
+    aboutContent: "I am a Data Scientist. I can provide actionable insights through rigorous statistical analysis and experimentation. I also make end-to-end machine learning pipelines and create insightful dashboards.",
     age: 33,
     phone: '',
-    nationality: 'American',
+    nationality: 'USA',
     language: 'English',
     email: 'jculligan@gmail.com',
     address: 'San Francisco, California, USA',
@@ -18,9 +18,9 @@ const database = {
       behance: '',
       linkedin: 'https://www.linkedin.com/in/jay-culligan/',
       dribbble: '',
-      github: 'https://github.com'
+      github: 'https://github.com/jayjculligan'
     },
-    brandImage: './public/images/brand-image.jpg',
+    brandImage: './images/brand-image.jpg',
     aboutImage: './images/about-image.jpg',
     aboutImageLg: './images/about-image-lg.jpg',
     cvfile: './files/JayCulligan_Resume.pdf'
@@ -28,18 +28,18 @@ const database = {
   services: [
     {
       title: "Machine Learning",
-      icon: 'layers',
-      details: "Enhancing product development by implementing end-to-end machine learning pipelines. Machine learning is a whole cycle that involves configuring ingestion, data processing, model traing, deployment, and upkeep. ."
+      icon: 'pulse',
+      details: "Enhancing product development by implementing end-to-end machine learning pipelines. Experience deploying on-premise and SaaS pipelines for enterprise use cases."
     },
     {
       title: "Analytics",
-      icon: 'activity',
-      details: "Generating actionable insights through statistical analysis and experimental design. Experience producing actionable insights in industry "
+      icon: 'stats-up',
+      details: "Generating actionable insights through statistical analysis and experimental design. Communicating complex ideas into digestible content for the appropriate audience."
     },
     {
       title: "Visualization",
-      icon: 'layout',
-      details: "Creating faster insights through simple, intuitive figures and charts. Developing dashbaords and other visualizations using Kibana, React, seaborn, matplotlib, and plotly"
+      icon: 'bar-chart',
+      details: "Creating faster insights through simple, intuitive figures and charts. Developing dashbaords and other visualizations using Kibana, React, seaborn, matplotlib, and plotly."
     }
   ],
   reviews: [
@@ -50,22 +50,22 @@ const database = {
         name: 'Mom',
         designation: 'Life Giver'
       }
-    },
-    {
-      id: 2,
-      content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam.",
-      author: {
-        name: 'Susan Yost',
-        designation: 'Client'
-      }
-    },
-    {
-      id: 3,
-      content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
-      author: {
-        name: 'Irving Feeney',
-        designation: 'Fiverr Client'
-      }
+    // },
+    // {
+    //   id: 2,
+    //   content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita impedit nobis tempore quaerat quibusdam.",
+    //   author: {
+    //     name: 'Susan Yost',
+    //     designation: 'Client'
+    //   }
+    // },
+    // {
+    //   id: 3,
+    //   content: "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+    //   author: {
+    //     name: 'Irving Feeney',
+    //     designation: 'Fiverr Client'
+    //   }
     }
   ],
   skills: [
@@ -285,7 +285,7 @@ const database = {
         year: "Sep 2018 - Dec 2018",
         position: "Data Science Fellow",
         company: "Insight Data Science",
-        details: "• Developed Plutarch, a web-app that uses natural language processing to provide personalized history podcast recommendations.",
+        details: "• Developed a web-app that uses natural language processing to provide personalized history podcast recommendations.",
         details2: "• Built a pipeline using Word2Vec to find content based on semantic similarity to user-inputted text.",
         details3: ""
       },
@@ -312,7 +312,7 @@ const database = {
       {
         id: 1,
         year: "2013 - 2017",
-        graduation: "Biology PhD",
+        graduation: "PhD - Biology",
         university: "University of Sussex - Brighton, East Sussex, UK",
         details: "",
         details2: "",
@@ -321,7 +321,7 @@ const database = {
       {
         id: 2,
         year: "2009 - 2013",
-        graduation: "Biology Bachelors",
+        graduation: "Bachelors - Biology",
         university: "Indiana University - Bloomington, Indiana, USA",
         details: "",
         details2: "",
