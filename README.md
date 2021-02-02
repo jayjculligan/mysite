@@ -1,3 +1,11 @@
+Hi, I am Jay Culligan. I'm starting this repo to work on new models and techniques to serve them via web apps and other means. For more about me, please check out this site at:
+
+https://jayjculligan.github.io/mysite/
+
+Thanks for visiting and please feel free to reach out about improvements to my projects! I'm eager to learn!
+
+- Jay
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
