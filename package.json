@@ -1,7 +1,7 @@
 {
   "name": "tf-react-chester",
   "version": "3.0.0",
-  "homepage": "https://justascientist.ai/",
+  "homepage": "justascientist.ai/",
   "dependencies": {
     "axios": "^0.21.1",
     "axios-mock-adapter": "^1.17.0",

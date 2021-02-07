@@ -1,6 +1,6 @@
 Hi, I am Jay Culligan. I'm starting this repo to work on new models and techniques to serve them via web apps and other means. For more about me, please check out this site at:
 
-https://jayjculligan.github.io/mysite/
+https://justascientist.ai
 
 Thanks for visiting and please feel free to reach out about improvements to my projects! I'm eager to learn!
 
