@@ -35,7 +35,7 @@ function App() {
         <button className={lightMode ? 'light-mode-switch active' : 'light-mode-switch'} onClick={() => handleMode()}></button>
       </div>
       <Switch>
-        <Route path="/" exact>
+        <Route path="/home" exact>
           <Home lightMode={lightMode}/>
         </Route>
         <Route path="/about" component={About} />

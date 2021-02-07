@@ -8,7 +8,7 @@ const database = {
     phone: '',
     nationality: 'USA',
     language: 'English',
-    email: 'jculligan@gmail.com',
+    email: 'jculligan[at]gmail[dot]com',
     address: 'San Francisco, California, USA',
     freelanceStatus: '',
     socialLinks: {
@@ -468,7 +468,7 @@ const database = {
   ],
   contactInfo: {
     phoneNumbers: [''],
-    emailAddress: ['jculligan@gmail.com'],
+    emailAddress: ['jculligan[at]gmail[dot]com'],
     address: "San Francisco, California, USA"
   }
 }
