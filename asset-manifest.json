@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mysite/static/css/main.379afb1d.chunk.css",
-    "main.js": "/mysite/static/js/main.50793ffb.chunk.js",
-    "main.js.map": "/mysite/static/js/main.50793ffb.chunk.js.map",
-    "runtime~main.js": "/mysite/static/js/runtime~main.51a71dca.js",
-    "runtime~main.js.map": "/mysite/static/js/runtime~main.51a71dca.js.map",
-    "static/css/2.a20538bb.chunk.css": "/mysite/static/css/2.a20538bb.chunk.css",
-    "static/js/2.29e087f9.chunk.js": "/mysite/static/js/2.29e087f9.chunk.js",
-    "static/js/2.29e087f9.chunk.js.map": "/mysite/static/js/2.29e087f9.chunk.js.map",
-    "index.html": "/mysite/index.html",
-    "precache-manifest.964284f4a885ec6e06041da55eadb256.js": "/mysite/precache-manifest.964284f4a885ec6e06041da55eadb256.js",
-    "service-worker.js": "/mysite/service-worker.js",
-    "static/css/2.a20538bb.chunk.css.map": "/mysite/static/css/2.a20538bb.chunk.css.map",
-    "static/css/main.379afb1d.chunk.css.map": "/mysite/static/css/main.379afb1d.chunk.css.map",
-    "static/media/slick-theme.css": "/mysite/static/media/slick.f97e3bbf.svg"
+    "main.css": "justascientist.ai/static/css/main.379afb1d.chunk.css",
+    "main.js": "justascientist.ai/static/js/main.7db41c8c.chunk.js",
+    "main.js.map": "justascientist.ai/static/js/main.7db41c8c.chunk.js.map",
+    "runtime~main.js": "justascientist.ai/static/js/runtime~main.90c9e13a.js",
+    "runtime~main.js.map": "justascientist.ai/static/js/runtime~main.90c9e13a.js.map",
+    "static/css/2.e878bf93.chunk.css": "justascientist.ai/static/css/2.e878bf93.chunk.css",
+    "static/js/2.29e087f9.chunk.js": "justascientist.ai/static/js/2.29e087f9.chunk.js",
+    "static/js/2.29e087f9.chunk.js.map": "justascientist.ai/static/js/2.29e087f9.chunk.js.map",
+    "index.html": "justascientist.ai/index.html",
+    "precache-manifest.100a69fb1964fddf3512f32dd676d391.js": "justascientist.ai/precache-manifest.100a69fb1964fddf3512f32dd676d391.js",
+    "service-worker.js": "justascientist.ai/service-worker.js",
+    "static/css/2.e878bf93.chunk.css.map": "justascientist.ai/static/css/2.e878bf93.chunk.css.map",
+    "static/css/main.379afb1d.chunk.css.map": "justascientist.ai/static/css/main.379afb1d.chunk.css.map",
+    "static/media/slick-theme.css": "justascientist.ai/static/media/slick.f97e3bbf.svg"
   }
 }
