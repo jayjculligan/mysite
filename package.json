@@ -1,7 +1,7 @@
 {
   "name": "tf-react-chester",
   "version": "3.0.0",
-  "homepage": "http://justascientist.ai/home",
+  "homepage": "justascientist.ai/",
   "dependencies": {
     "axios": "^0.21.1",
     "axios-mock-adapter": "^1.17.0",
@@ -29,8 +29,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy": "yarn run build",
+    "deploy": "netlify deploy --prod",
     "eject": "react-scripts eject"
   },
   "browserslist": {
